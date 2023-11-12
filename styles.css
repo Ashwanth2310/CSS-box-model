@@ -1,4 +1,7 @@
 /* Your code goes here */
+*{
+  background-color: rgb(69, 63, 86);
+}
 .elon {
   width: 300px;
   height: 375px;
